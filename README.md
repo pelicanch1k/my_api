@@ -20,8 +20,7 @@ pip install -r installed_libraries.txt
 <br><br/>
 5. Выполните миграции базы данных с помощью команды:
 <br><br/>
-python manage.py makemigrations
-python manage.py migrate
+python manage.py makemigrations<br>python manage.py migrate
 <br><br/>
 6. Создайте суперпользователя:
 <br><br/>
