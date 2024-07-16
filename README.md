@@ -1,6 +1,6 @@
 1. Склонируйте репозиторий с помощью команды git clone:
 <br><br/>
-git clone https://github.com/lakeroko/Project
+git clone https://github.com/pelicanch1k/my_api
 <br><br/>
 2. Создайте виртуальное окружение Python, если это необходимо:
 <br><br/>
